@@ -1,0 +1,17 @@
+# node modules
+node_modules/
+
+# environment variables
+.env
+
+# logs
+npm-debug.log*
+
+# mac files
+.DS_Store
+
+# vscode
+.vscode/
+
+# render
+.render
